@@ -1,10 +1,6 @@
 # Ignore everything
 /*
 
-!kallery-ng/
+# But not these files & folders
 !.gitignore
-!.alias.sh
-!.funcs.sh
-!.browserslistrc
 !README.md
-!package.json

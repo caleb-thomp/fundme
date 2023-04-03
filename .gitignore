@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+
+!kallery-ng/
+!.gitignore
+!.alias.sh
+!.funcs.sh
+!.browserslistrc
+!README.md
+!package.json

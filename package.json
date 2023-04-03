@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "open": "http-server ./fundme-ng/dist/fundme-ng"
+  },
+  "dependencies": {
+    "@angular/cli": "^15.2.4",
+    "http-server": "^14.1.1"
+  }
+}

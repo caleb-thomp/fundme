@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+
+# But not these files & folders
+!.gitignore
+!README.md
+!package.json
+!src/
+!public/
+!build/

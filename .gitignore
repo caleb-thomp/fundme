@@ -1,6 +1,12 @@
 # Ignore everything
 /*
 
-# But not these files & folders
+!fundme-react/
 !.gitignore
+!.alias.sh
+!.funcs.sh
 !README.md
+!package.json
+
+# Local Netlify folder
+.netlify

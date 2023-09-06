@@ -1,4 +1,4 @@
 # Fundme
-Fund Me is an embeddable widget for people to post accounts and crypto wallets that people can qr and send cash to.
+Fund Me is a platform for users to manage all bank and crypto accounts.
 
 [React Website](https://fundme-react.netlify.app/)
